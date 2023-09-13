@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ListView-and-Spinners</string>
+    <string-array name="Students">
+        <item>John</item>
+        <item>Joel</item>
+        <item>Elvis</item>
+        <item>Zaina</item>
+        <item>Kevin</item>
+        <item>Albert</item>
+        <item>Victoria</item>
+        <item>Allan</item>
+    </string-array>
+
 </resources>
